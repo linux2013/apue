@@ -6,7 +6,7 @@
 #include <unistd.h>
 #include <errno.h>
 
-#define SERV_PORT 8888
+#define SERV_PORT 8068
 
 int
 main(int argc, char * argv[])
